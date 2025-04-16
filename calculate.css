@@ -1,0 +1,67 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    }
+    
+    #calculate{
+    width: 100%;
+    height: 100vh;
+    background-color: aqua;
+    padding: 150px 0px;
+    }
+    
+    #serach_bar {
+        width: 250px;
+        position: relative;
+        background: antiquewhite;
+        height: 225px;
+        border-radius: 10px;
+        margin: 0 auto;
+    }
+    
+    
+    #serach_bar input {
+        position: relative;
+        top: 11px;
+        width: 235px;
+        border-radius: 16px;
+        outline: navajowhite;
+        border: navajowhite;
+        height: 27px;
+    }
+    
+    
+    #cal_but {
+        position: relative;
+        top: -184px;
+        display: block;
+        flex: auto;
+        flex-wrap: wrap;
+    }
+    
+    
+    #cal_but button {
+        padding: 1px 21px;
+        position: relative;
+        margin: 11px 1px;
+        background: aqua;
+        border-radius: 30px;
+    }
+    
+    
+    h1{
+        text-align: center;
+        position: relative;
+        top: -50px;
+        font-weight: bold;
+    }
+    
+    
+    
+    
+    
+    
+    
